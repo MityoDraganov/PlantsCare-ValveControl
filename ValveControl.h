@@ -1,7 +1,7 @@
 #ifndef VALVECONTROL_H
 #define VALVECONTROL_H
 
-#include "Control.h"
+#include  "../Control/Control.h"
 #include <Arduino.h>
 
 class ValveControl : public Control
